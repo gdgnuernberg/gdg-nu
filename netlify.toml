@@ -9,6 +9,6 @@
   status = 301
   
 [[redirects]]
-  from = "/*"
+  from = "/"
   to = "https://gdg.community.dev/gdg-nuremberg/"
   status = 301
