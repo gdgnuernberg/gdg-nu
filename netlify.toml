@@ -1,4 +1,14 @@
 [[redirects]]
+  from = "/li"
+  to "https://www.linkedin.com/company/google-developer-group-nuremberg"
+  status = 301
+
+[[redirects]]
+  from = "/linkedin"
+  to "https://www.linkedin.com/company/google-developer-group-nuremberg"
+  status = 301
+  
+[[redirects]]
   from = "/*"
   to = "https://gdg.community.dev/gdg-nuremberg/"
   status = 301
